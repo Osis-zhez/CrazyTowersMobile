@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49306404454315408d9e0d1cde1b823, type: 3}
+  m_Name: Unit3
+  m_EditorClassIdentifier: 
+  nameString: Unit3
+  prefab: {fileID: 7693161411778847301, guid: 97bb76506081e6047955434468d45533, type: 3}
+  unitEnergyCoast: 150
+  manaGainBase: 30
+  callDawnSpawn: 0.1
+  damageAmountBase: 200
+  healthAmountMaxBase: 300
+  moveSpeedBase: 2.3
+  shieldAmountBase: 0.02
+  manaUpgradeCoastBase: 40
+  damageAmountUpgrade: 0.5
+  healthAmountMaxUpgrade: 0.1
+  moveSpeedUpgrade: 0.1
+  shieldAmountUpgrade: 0.02
+  manaGainUpgrade: 0
