@@ -45,10 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   energyText: {fileID: 0}
-  energyMultiplier: 0.5
+  energyMultiplier: 0.1
   maxEnergy: 200
   energy: 0
   energyUpgradeCoast: 40
   energyUpgradeAmount: 50
   energyFill: {fileID: 0}
-  timerMax: 0.2
+  timerMax: 0.4
