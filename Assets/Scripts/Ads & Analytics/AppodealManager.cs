@@ -20,6 +20,7 @@ public class AppodealManager : MonoBehaviour, IRewardedVideoAdListener, IInterst
     {
         int adTypes = AppodealAdType.RewardedVideo | AppodealAdType.Interstitial ;
         string appKey = "b6667efd0fd36a513bda29b598439b1aef8bab2d69eb7af4";
+        Appodeal.SetTesting(false);
         AppodealCallbacks.Sdk.OnInitialized += OnInitilizationFinished;
         Appodeal.Initialize(appKey, adTypes);
         Appodeal.SetRewardedVideoCallbacks(this);
@@ -31,7 +32,6 @@ public class AppodealManager : MonoBehaviour, IRewardedVideoAdListener, IInterst
     private void OnInitilizationFinished(object sender, SdkInitializedEventArgs e)
     {
         Debug.Log("Initialization Finished");
-        
     }
 
     public void ShowInterstitial()

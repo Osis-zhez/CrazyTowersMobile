@@ -1707,6 +1707,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FPSshower
       objectReference: {fileID: 0}
+    - target: {fileID: 4220656537190372768, guid: 3ead6938da0b9ca43a9930a204323966, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4220656537190372770, guid: 3ead6938da0b9ca43a9930a204323966, type: 3}
       propertyPath: text
       value: 

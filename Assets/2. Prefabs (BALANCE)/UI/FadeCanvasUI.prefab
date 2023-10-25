@@ -56,8 +56,8 @@ MonoBehaviour:
   canvasGroup: {fileID: 1299878211949507366}
   loadingScreen: {fileID: 5685720333882179676}
   loadingBar: {fileID: 5685720332089507916}
-  changeValue: 0.06
-  waitTime: 0.02
+  changeValue: 0.8
+  waitTime: 0.18
   fadeStarted: 0
 --- !u!222 &1299878211949507360
 CanvasRenderer:
