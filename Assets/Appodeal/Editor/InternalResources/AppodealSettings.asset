@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91231c530a82d4be6a47916a15fa89e3, type: 3}
   m_Name: AppodealSettings
   m_EditorClassIdentifier: 
-  adMobAndroidAppId: ca-app-pub-1933591656142280~5966712393
+  adMobAndroidAppId: ca-app-pub-1933591656142280~3889066161
   adMobIosAppId: 
   accessCoarseLocationPermission: 0
   writeExternalStoragePermission: 1
@@ -27,91 +27,21 @@ MonoBehaviour:
   iosSkAdNetworkItemsList:
   - v9wttpbfk9.skadnetwork
   - n38lu8286q.skadnetwork
-  - 5l3tpt7t6e.skadnetwork
-  - mlmmfzh3r3.skadnetwork
-  - hs6bdukanm.skadnetwork
-  - t38b2kh725.skadnetwork
-  - 5lm9lj6jb7.skadnetwork
-  - v72qych5uu.skadnetwork
-  - k674qkevps.skadnetwork
-  - tl55sbb4fm.skadnetwork
-  - ppxm28t8ap.skadnetwork
-  - 97r2b46745.skadnetwork
-  - zq492l623r.skadnetwork
-  - a2p9lx4jpn.skadnetwork
-  - klf5c3l5u5.skadnetwork
-  - n9x2a789qt.skadnetwork
-  - k674qkevps.skadnetwork
-  - 7ug5zh24hu.skadnetwork
-  - uw77j35x4d.skadnetwork
-  - c6k4g5qg8m.skadnetwork
-  - hs6bdukanm.skadnetwork
-  - yclnxrl5pm.skadnetwork
-  - 3sh42y64q3.skadnetwork
-  - cj5566h2ga.skadnetwork
-  - klf5c3l5u5.skadnetwork
-  - 8s468mfl3y.skadnetwork
-  - 2u9pt9hc89.skadnetwork
-  - 7rz58n8ntl.skadnetwork
-  - ppxm28t8ap.skadnetwork
-  - mtkv5xtk9e.skadnetwork
-  - cg4yq2srnc.skadnetwork
-  - wzmmz9fp6w.skadnetwork
-  - v72qych5uu.skadnetwork
-  - 578prtvx9j.skadnetwork
-  - 3rd42ekr43.skadnetwork
-  - g28c52eehv.skadnetwork
-  - 2fnua5tdw4.skadnetwork
-  - 9nlqeag3gk.skadnetwork
-  - n6fk4nfna4.skadnetwork
-  - e5fvkxwrpn.skadnetwork
-  - kbmxgpxpgc.skadnetwork
-  - 294l99pt4k.skadnetwork
-  - 5lm9lj6jb7.skadnetwork
-  - r45fhb6rf7.skadnetwork
-  - 9t245vhmpl.skadnetwork
-  - pwa73g5rt2.skadnetwork
-  - ydx93a7ass.skadnetwork
-  - p78axxw29g.skadnetwork
-  - c3frkrj4fj.skadnetwork
-  - 4fzdc2evr5.skadnetwork
-  - 22mmun2rn5.skadnetwork
-  - 5l3tpt7t6e.skadnetwork
-  - mlmmfzh3r3.skadnetwork
-  - hs6bdukanm.skadnetwork
-  - t38b2kh725.skadnetwork
-  - 5lm9lj6jb7.skadnetwork
-  - v72qych5uu.skadnetwork
-  - k674qkevps.skadnetwork
-  - tl55sbb4fm.skadnetwork
-  - ppxm28t8ap.skadnetwork
-  - 97r2b46745.skadnetwork
-  - zq492l623r.skadnetwork
-  - a2p9lx4jpn.skadnetwork
-  - 3rd42ekr43.skadnetwork
-  - tl55sbb4fm.skadnetwork
-  - 2u9pt9hc89.skadnetwork
-  - 8s468mfl3y.skadnetwork
-  - glqzh8vgby.skadnetwork
-  - n9x2a789qt.skadnetwork
-  - prcb7njmu6.skadnetwork
-  - v72qych5uu.skadnetwork
-  - mlmmfzh3r3.skadnetwork
-  - c6k4g5qg8m.skadnetwork
-  - 22mmun2rn5.skadnetwork
-  - yclnxrl5pm.skadnetwork
-  - t38b2kh725.skadnetwork
-  - 7ug5zh24hu.skadnetwork
-  - 5lm9lj6jb7.skadnetwork
-  - 9t245vhmpl.skadnetwork
-  - n9x2a789qt.skadnetwork
-  - 4fzdc2evr5.skadnetwork
-  - gta8lk7p23.skadnetwork
-  - ydx93a7ass.skadnetwork
   - v9wttpbfk9.skadnetwork
   - n38lu8286q.skadnetwork
-  - kbd757ywx3.skadnetwork
   - n9x2a789qt.skadnetwork
+  - 5l3tpt7t6e.skadnetwork
+  - mlmmfzh3r3.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - t38b2kh725.skadnetwork
+  - 5lm9lj6jb7.skadnetwork
+  - v72qych5uu.skadnetwork
+  - k674qkevps.skadnetwork
+  - tl55sbb4fm.skadnetwork
+  - ppxm28t8ap.skadnetwork
+  - 97r2b46745.skadnetwork
+  - zq492l623r.skadnetwork
+  - a2p9lx4jpn.skadnetwork
   - 3rd42ekr43.skadnetwork
   - tl55sbb4fm.skadnetwork
   - 2u9pt9hc89.skadnetwork
@@ -132,43 +62,27 @@ MonoBehaviour:
   - 4fzdc2evr5.skadnetwork
   - gta8lk7p23.skadnetwork
   - ydx93a7ass.skadnetwork
-  - su67r6k2v3.skadnetwork
-  - su67r6k2v3.skadnetwork
-  - f7s53z58qe.skadnetwork
-  - 2u9pt9hc89.skadnetwork
-  - hs6bdukanm.skadnetwork
-  - 8s468mfl3y.skadnetwork
-  - 5l3tpt7t6e.skadnetwork
-  - c6k4g5qg8m.skadnetwork
-  - v72qych5uu.skadnetwork
-  - 44jx6755aq.skadnetwork
-  - prcb7njmu6.skadnetwork
-  - m8dbw4sv7c.skadnetwork
   - 3rd42ekr43.skadnetwork
-  - 4fzdc2evr5.skadnetwork
-  - t38b2kh725.skadnetwork
-  - f38h382jlk.skadnetwork
-  - 424m5254lk.skadnetwork
-  - ppxm28t8ap.skadnetwork
-  - av6w8kgt66.skadnetwork
-  - cp8zw746q7.skadnetwork
-  - 4468km3ulz.skadnetwork
-  - e5fvkxwrpn.skadnetwork
+  - tl55sbb4fm.skadnetwork
+  - 2u9pt9hc89.skadnetwork
+  - 8s468mfl3y.skadnetwork
+  - glqzh8vgby.skadnetwork
+  - n9x2a789qt.skadnetwork
+  - prcb7njmu6.skadnetwork
+  - v72qych5uu.skadnetwork
+  - mlmmfzh3r3.skadnetwork
+  - c6k4g5qg8m.skadnetwork
   - 22mmun2rn5.skadnetwork
-  - s39g8k73mm.skadnetwork
   - yclnxrl5pm.skadnetwork
-  - 3qy4746246.skadnetwork
-  - k674qkevps.skadnetwork
-  - kbmxgpxpgc.skadnetwork
-  - 9nlqeag3gk.skadnetwork
-  - 32z4fx6l9h.skadnetwork
-  - 252b5q8x7y.skadnetwork
+  - t38b2kh725.skadnetwork
+  - 7ug5zh24hu.skadnetwork
+  - 5lm9lj6jb7.skadnetwork
+  - 9t245vhmpl.skadnetwork
+  - n9x2a789qt.skadnetwork
+  - 4fzdc2evr5.skadnetwork
+  - gta8lk7p23.skadnetwork
+  - ydx93a7ass.skadnetwork
   - kbd757ywx3.skadnetwork
-  - cstr6suwn9.skadnetwork
-  - 7fmhfwg9en.skadnetwork
-  - 6yxyv74ff7.skadnetwork
-  - wzmmz9fp6w.skadnetwork
-  - mqn7fxpca7.skadnetwork
   - 22mmun2rn5.skadnetwork
   - 238da6jt44.skadnetwork
   - 24t9a8vw3c.skadnetwork
@@ -315,6 +229,43 @@ MonoBehaviour:
   - ydx93a7ass.skadnetwork
   - zmvfpc5aq8.skadnetwork
   - zq492l623r.skadnetwork
+  - su67r6k2v3.skadnetwork
+  - su67r6k2v3.skadnetwork
+  - f7s53z58qe.skadnetwork
+  - 2u9pt9hc89.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - 8s468mfl3y.skadnetwork
+  - 5l3tpt7t6e.skadnetwork
+  - c6k4g5qg8m.skadnetwork
+  - v72qych5uu.skadnetwork
+  - 44jx6755aq.skadnetwork
+  - prcb7njmu6.skadnetwork
+  - m8dbw4sv7c.skadnetwork
+  - 3rd42ekr43.skadnetwork
+  - 4fzdc2evr5.skadnetwork
+  - t38b2kh725.skadnetwork
+  - f38h382jlk.skadnetwork
+  - 424m5254lk.skadnetwork
+  - ppxm28t8ap.skadnetwork
+  - av6w8kgt66.skadnetwork
+  - cp8zw746q7.skadnetwork
+  - 4468km3ulz.skadnetwork
+  - e5fvkxwrpn.skadnetwork
+  - 22mmun2rn5.skadnetwork
+  - s39g8k73mm.skadnetwork
+  - yclnxrl5pm.skadnetwork
+  - 3qy4746246.skadnetwork
+  - k674qkevps.skadnetwork
+  - kbmxgpxpgc.skadnetwork
+  - 9nlqeag3gk.skadnetwork
+  - 32z4fx6l9h.skadnetwork
+  - 252b5q8x7y.skadnetwork
+  - kbd757ywx3.skadnetwork
+  - cstr6suwn9.skadnetwork
+  - 7fmhfwg9en.skadnetwork
+  - 6yxyv74ff7.skadnetwork
+  - wzmmz9fp6w.skadnetwork
+  - mqn7fxpca7.skadnetwork
   - uw77j35x4d.skadnetwork
   - 7ug5zh24hu.skadnetwork
   - hs6bdukanm.skadnetwork
@@ -404,62 +355,62 @@ MonoBehaviour:
   - vcra2ehyfk.skadnetwork
   - 3qcr597p9d.skadnetwork
   - 74b6s63p6l.skadnetwork
-  - 32z4fx6l9h.skadnetwork
-  - a2p9lx4jpn.skadnetwork
-  - f7s53z58qe.skadnetwork
-  - 9nlqeag3gk.skadnetwork
-  - 488r3q3dtq.skadnetwork
-  - lr83yxwka7.skadnetwork
-  - wzmmz9fp6w.skadnetwork
-  - zmvfpc5aq8.skadnetwork
-  - 2u9pt9hc89.skadnetwork
-  - 7ug5zh24hu.skadnetwork
-  - prcb7njmu6.skadnetwork
-  - 5lm9lj6jb7.skadnetwork
   - c6k4g5qg8m.skadnetwork
-  - 4fzdc2evr5.skadnetwork
-  - 5tjdwbrq8w.skadnetwork
-  - yclnxrl5pm.skadnetwork
-  - 238da6jt44.skadnetwork
-  - hs6bdukanm.skadnetwork
-  - mlmmfzh3r3.skadnetwork
-  - 3sh42y64q3.skadnetwork
-  - 9rd848q2bz.skadnetwork
-  - kbd757ywx3.skadnetwork
-  - m8dbw4sv7c.skadnetwork
-  - mp6xlyr22a.skadnetwork
-  - 4pfyvq9l8r.skadnetwork
-  - tl55sbb4fm.skadnetwork
-  - av6w8kgt66.skadnetwork
-  - k674qkevps.skadnetwork
-  - 22mmun2rn5.skadnetwork
   - v79kvwwj4g.skadnetwork
-  - 424m5254lk.skadnetwork
-  - 4dzt52r2t5.skadnetwork
-  - f38h382jlk.skadnetwork
-  - 5a6flpkh64.skadnetwork
-  - 578prtvx9j.skadnetwork
-  - glqzh8vgby.skadnetwork
-  - 9t245vhmpl.skadnetwork
-  - t38b2kh725.skadnetwork
-  - s39g8k73mm.skadnetwork
-  - zq492l623r.skadnetwork
-  - 8s468mfl3y.skadnetwork
-  - x44k69ngh6.skadnetwork
-  - v72qych5uu.skadnetwork
-  - ppxm28t8ap.skadnetwork
+  - 5tjdwbrq8w.skadnetwork
+  - 488r3q3dtq.skadnetwork
   - ydx93a7ass.skadnetwork
-  - f73kdq92p3.skadnetwork
-  - cstr6suwn9.skadnetwork
+  - 5a6flpkh64.skadnetwork
+  - 4fzdc2evr5.skadnetwork
+  - a2p9lx4jpn.skadnetwork
   - 3rd42ekr43.skadnetwork
-  - wg4vff78zm.skadnetwork
-  - 44jx6755aq.skadnetwork
+  - lr83yxwka7.skadnetwork
+  - f7s53z58qe.skadnetwork
+  - 238da6jt44.skadnetwork
+  - 9t245vhmpl.skadnetwork
   - 4468km3ulz.skadnetwork
-  - w9q455wk68.skadnetwork
+  - f38h382jlk.skadnetwork
+  - yclnxrl5pm.skadnetwork
+  - 3sh42y64q3.skadnetwork
+  - wg4vff78zm.skadnetwork
+  - ppxm28t8ap.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - kbd757ywx3.skadnetwork
+  - tl55sbb4fm.skadnetwork
+  - t38b2kh725.skadnetwork
+  - 4pfyvq9l8r.skadnetwork
+  - 9nlqeag3gk.skadnetwork
+  - 22mmun2rn5.skadnetwork
+  - zmvfpc5aq8.skadnetwork
+  - 5lm9lj6jb7.skadnetwork
+  - m8dbw4sv7c.skadnetwork
+  - wzmmz9fp6w.skadnetwork
+  - cstr6suwn9.skadnetwork
+  - 424m5254lk.skadnetwork
+  - x44k69ngh6.skadnetwork
+  - mp6xlyr22a.skadnetwork
   - 5l3tpt7t6e.skadnetwork
-  - 4w7y6s5ca2.skadnetwork
+  - mlmmfzh3r3.skadnetwork
+  - v72qych5uu.skadnetwork
+  - w9q455wk68.skadnetwork
   - 3qy4746246.skadnetwork
+  - prcb7njmu6.skadnetwork
   - 294l99pt4k.skadnetwork
+  - 4dzt52r2t5.skadnetwork
+  - s39g8k73mm.skadnetwork
+  - f73kdq92p3.skadnetwork
+  - 32z4fx6l9h.skadnetwork
+  - 44jx6755aq.skadnetwork
+  - 578prtvx9j.skadnetwork
+  - 8s468mfl3y.skadnetwork
+  - av6w8kgt66.skadnetwork
+  - zq492l623r.skadnetwork
+  - 4w7y6s5ca2.skadnetwork
+  - 2u9pt9hc89.skadnetwork
+  - 9rd848q2bz.skadnetwork
+  - glqzh8vgby.skadnetwork
+  - 7ug5zh24hu.skadnetwork
+  - k674qkevps.skadnetwork
   - 44jx6755aq.skadnetwork
   - 737z793b9f.skadnetwork
   - 8s468mfl3y.skadnetwork
@@ -647,67 +598,55 @@ MonoBehaviour:
   - pwa73g5rt2.skadnetwork
   - zq492l623r.skadnetwork
   - 22mmun2rn5.skadnetwork
-  - uw77j35x4d.skadnetwork
-  - 7ug5zh24hu.skadnetwork
-  - hs6bdukanm.skadnetwork
-  - 4fzdc2evr5.skadnetwork
-  - ggvn48r87g.skadnetwork
-  - 5lm9lj6jb7.skadnetwork
-  - 9rd848q2bz.skadnetwork
-  - c6k4g5qg8m.skadnetwork
-  - wzmmz9fp6w.skadnetwork
-  - 3sh42y64q3.skadnetwork
-  - yclnxrl5pm.skadnetwork
-  - kbd757ywx3.skadnetwork
-  - f73kdq92p3.skadnetwork
-  - ydx93a7ass.skadnetwork
-  - w9q455wk68.skadnetwork
-  - prcb7njmu6.skadnetwork
-  - wg4vff78zm.skadnetwork
-  - mlmmfzh3r3.skadnetwork
-  - tl55sbb4fm.skadnetwork
-  - 4pfyvq9l8r.skadnetwork
-  - t38b2kh725.skadnetwork
   - 5l3tpt7t6e.skadnetwork
-  - 7rz58n8ntl.skadnetwork
-  - klf5c3l5u5.skadnetwork
-  - cg4yq2srnc.skadnetwork
-  - av6w8kgt66.skadnetwork
-  - 9t245vhmpl.skadnetwork
+  - mlmmfzh3r3.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - t38b2kh725.skadnetwork
+  - 5lm9lj6jb7.skadnetwork
   - v72qych5uu.skadnetwork
-  - 2u9pt9hc89.skadnetwork
-  - 44jx6755aq.skadnetwork
-  - 8s468mfl3y.skadnetwork
-  - p78axxw29g.skadnetwork
-  - ppxm28t8ap.skadnetwork
-  - 424m5254lk.skadnetwork
-  - 5a6flpkh64.skadnetwork
-  - pwa73g5rt2.skadnetwork
-  - e5fvkxwrpn.skadnetwork
-  - 9nlqeag3gk.skadnetwork
   - k674qkevps.skadnetwork
+  - tl55sbb4fm.skadnetwork
+  - ppxm28t8ap.skadnetwork
+  - 97r2b46745.skadnetwork
+  - zq492l623r.skadnetwork
+  - a2p9lx4jpn.skadnetwork
+  - klf5c3l5u5.skadnetwork
+  - n9x2a789qt.skadnetwork
+  - k674qkevps.skadnetwork
+  - 7ug5zh24hu.skadnetwork
+  - uw77j35x4d.skadnetwork
+  - c6k4g5qg8m.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - yclnxrl5pm.skadnetwork
+  - 3sh42y64q3.skadnetwork
   - cj5566h2ga.skadnetwork
+  - klf5c3l5u5.skadnetwork
+  - 8s468mfl3y.skadnetwork
+  - 2u9pt9hc89.skadnetwork
+  - 7rz58n8ntl.skadnetwork
+  - ppxm28t8ap.skadnetwork
   - mtkv5xtk9e.skadnetwork
+  - cg4yq2srnc.skadnetwork
+  - wzmmz9fp6w.skadnetwork
+  - v72qych5uu.skadnetwork
+  - 578prtvx9j.skadnetwork
   - 3rd42ekr43.skadnetwork
   - g28c52eehv.skadnetwork
   - 2fnua5tdw4.skadnetwork
-  - 4468km3ulz.skadnetwork
-  - 97r2b46745.skadnetwork
-  - glqzh8vgby.skadnetwork
-  - 3qcr597p9d.skadnetwork
-  - 578prtvx9j.skadnetwork
+  - 9nlqeag3gk.skadnetwork
   - n6fk4nfna4.skadnetwork
-  - b9bk5wbcq9.skadnetwork
+  - e5fvkxwrpn.skadnetwork
   - kbmxgpxpgc.skadnetwork
   - 294l99pt4k.skadnetwork
-  - 523jb4fst2.skadnetwork
-  - mls7yz5dvl.skadnetwork
-  - 74b6s63p6l.skadnetwork
-  - 22mmun2rn5.skadnetwork
-  - 52fl2v3hgk.skadnetwork
-  - 6g9af3uyq4.skadnetwork
-  - x5l83yy675.skadnetwork
+  - 5lm9lj6jb7.skadnetwork
+  - r45fhb6rf7.skadnetwork
+  - 9t245vhmpl.skadnetwork
+  - pwa73g5rt2.skadnetwork
+  - ydx93a7ass.skadnetwork
+  - p78axxw29g.skadnetwork
   - c3frkrj4fj.skadnetwork
+  - 4fzdc2evr5.skadnetwork
+  - 22mmun2rn5.skadnetwork
   - wg4vff78zm.skadnetwork
   - 737z793b9f.skadnetwork
   - ydx93a7ass.skadnetwork
@@ -1146,6 +1085,70 @@ MonoBehaviour:
   - vcra2ehyfk.skadnetwork
   - 3qcr597p9d.skadnetwork
   - 74b6s63p6l.skadnetwork
+  - uw77j35x4d.skadnetwork
+  - 7ug5zh24hu.skadnetwork
+  - hs6bdukanm.skadnetwork
+  - 4fzdc2evr5.skadnetwork
+  - ggvn48r87g.skadnetwork
+  - 5lm9lj6jb7.skadnetwork
+  - 9rd848q2bz.skadnetwork
+  - c6k4g5qg8m.skadnetwork
+  - wzmmz9fp6w.skadnetwork
+  - 3sh42y64q3.skadnetwork
+  - yclnxrl5pm.skadnetwork
+  - kbd757ywx3.skadnetwork
+  - f73kdq92p3.skadnetwork
+  - ydx93a7ass.skadnetwork
+  - w9q455wk68.skadnetwork
+  - prcb7njmu6.skadnetwork
+  - wg4vff78zm.skadnetwork
+  - mlmmfzh3r3.skadnetwork
+  - tl55sbb4fm.skadnetwork
+  - 4pfyvq9l8r.skadnetwork
+  - t38b2kh725.skadnetwork
+  - 5l3tpt7t6e.skadnetwork
+  - 7rz58n8ntl.skadnetwork
+  - klf5c3l5u5.skadnetwork
+  - cg4yq2srnc.skadnetwork
+  - av6w8kgt66.skadnetwork
+  - 9t245vhmpl.skadnetwork
+  - v72qych5uu.skadnetwork
+  - 2u9pt9hc89.skadnetwork
+  - 44jx6755aq.skadnetwork
+  - 8s468mfl3y.skadnetwork
+  - p78axxw29g.skadnetwork
+  - ppxm28t8ap.skadnetwork
+  - 424m5254lk.skadnetwork
+  - 5a6flpkh64.skadnetwork
+  - pwa73g5rt2.skadnetwork
+  - e5fvkxwrpn.skadnetwork
+  - 9nlqeag3gk.skadnetwork
+  - k674qkevps.skadnetwork
+  - cj5566h2ga.skadnetwork
+  - mtkv5xtk9e.skadnetwork
+  - 3rd42ekr43.skadnetwork
+  - g28c52eehv.skadnetwork
+  - 2fnua5tdw4.skadnetwork
+  - 4468km3ulz.skadnetwork
+  - 97r2b46745.skadnetwork
+  - glqzh8vgby.skadnetwork
+  - 3qcr597p9d.skadnetwork
+  - 578prtvx9j.skadnetwork
+  - n6fk4nfna4.skadnetwork
+  - b9bk5wbcq9.skadnetwork
+  - kbmxgpxpgc.skadnetwork
+  - 294l99pt4k.skadnetwork
+  - 523jb4fst2.skadnetwork
+  - mls7yz5dvl.skadnetwork
+  - 74b6s63p6l.skadnetwork
+  - 22mmun2rn5.skadnetwork
+  - 52fl2v3hgk.skadnetwork
+  - 6g9af3uyq4.skadnetwork
+  - x5l83yy675.skadnetwork
+  - mqn7fxpca7.skadnetwork
+  - g6gcrrvk4p.skadnetwork
+  - r45fhb6rf7.skadnetwork
+  - c3frkrj4fj.skadnetwork
   - cstr6suwn9.skadnetwork
   - 4fzdc2evr5.skadnetwork
   - 4pfyvq9l8r.skadnetwork
