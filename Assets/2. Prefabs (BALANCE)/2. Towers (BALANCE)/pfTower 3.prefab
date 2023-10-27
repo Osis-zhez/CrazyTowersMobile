@@ -391,7 +391,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 2291235981306698819, guid: cf2b4cdd02d166d4e9335b1ac2d89ab1, type: 3}
-  visualRadius: {fileID: 0}
+  visualRadius: {fileID: 961374361542284268}
   shootTimerMax: 0.6
   attackRadius: 4
   angelShift: 90
+  isActiveRadius: 0

@@ -24,6 +24,6 @@ MonoBehaviour:
   manaUpgradeCoastBase: 40
   damageAmountUpgrade: 0
   healthAmountMaxUpgrade: 0.1
-  moveSpeedUpgrade: 0
+  moveSpeedUpgrade: 0.01
   shieldAmountUpgrade: 0
   manaGainUpgrade: 0

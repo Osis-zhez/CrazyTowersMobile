@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameString: Unit1
   prefab: {fileID: 8908644536737319805, guid: 91f0d18b89c90874b940020f8b63b969, type: 3}
-  unitEnergyCoast: 50
+  unitEnergyCoast: 100
   manaGainBase: 10
-  callDawnSpawn: 0.1
+  callDawnSpawn: 0.01
   damageAmountBase: 200
   healthAmountMaxBase: 300
   moveSpeedBase: 2.3

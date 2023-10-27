@@ -15,7 +15,7 @@ MonoBehaviour:
   nameString: Unit3
   prefab: {fileID: 7693161411778847301, guid: 97bb76506081e6047955434468d45533, type: 3}
   unitEnergyCoast: 150
-  manaGainBase: 30
+  manaGainBase: 12
   callDawnSpawn: 0.1
   damageAmountBase: 200
   healthAmountMaxBase: 300
