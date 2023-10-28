@@ -10608,6 +10608,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ContinueButton
       objectReference: {fileID: 0}
+    - target: {fileID: 8734080559509693347, guid: fc76cdab72aec71459878dc12143b85b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc76cdab72aec71459878dc12143b85b, type: 3}
 --- !u!224 &3537179870183619448 stripped

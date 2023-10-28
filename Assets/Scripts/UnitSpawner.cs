@@ -35,9 +35,9 @@ public class UnitSpawner : MonoBehaviour
 
     public void UpgradeUnit(int unitIndex, out bool isDone)
     {
-        if (ManaManager.Instance.GetCurrentMana() >= unitTypeList.unitList[unitIndex].manaUpgradeCoastBase)
+        if (ManaManager.Instance.GetCurrentMana() >= unitTypeList.unitList[unitIndex].GetManaToUpgrade())
         {
-            ManaManager.Instance.TakeManaForUpgrade(unitTypeList.unitList[unitIndex].manaUpgradeCoastBase);
+            ManaManager.Instance.TakeManaForUpgrade(unitTypeList.unitList[unitIndex].GetManaToUpgrade());
             unitTypeList.unitList[unitIndex].UpgradeUnit();
             isDone = true;
         }

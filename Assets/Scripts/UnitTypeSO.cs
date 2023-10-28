@@ -23,12 +23,14 @@ public class UnitTypeSO : ScriptableObject
     [SerializeField] private float moveSpeedUpgrade;
     [SerializeField] private float shieldAmountUpgrade; 
     [SerializeField] private float manaGainUpgrade;
+    [SerializeField] private float manaUpgradeCoastUp;
 
     private float damageAmount;
     private float moveSpeed;
     private float healthAmountMax;
     private float manaGain;
     private float shieldAmount;
+    private float manaToUpgrade;
     
     public void StartUnitTypeSO() 
     {
@@ -37,6 +39,7 @@ public class UnitTypeSO : ScriptableObject
         healthAmountMax = healthAmountMaxBase;
         manaGain = manaGainBase;
         shieldAmount = shieldAmountBase;
+        manaToUpgrade = manaUpgradeCoastBase;
     }
 
     public GameObject SpawnUnit(Vector3 position)
@@ -52,6 +55,11 @@ public class UnitTypeSO : ScriptableObject
         this.healthAmountMax += this.healthAmountMaxBase * healthAmountMaxUpgrade;
         this.moveSpeed += this.moveSpeedBase * moveSpeedUpgrade;
         this.shieldAmount += shieldAmountUpgrade;
+    }
+
+    public void ManaButtonUpgrade()
+    {
+        manaToUpgrade += manaUpgradeCoastUp;
     }
 
     public void UpgradeUnit1(float manaGain = 0, float healthAmountMax = 0) //Здесь нужно добавить параметры для всех переменных, которые нужно апгрейдить
@@ -108,8 +116,9 @@ public class UnitTypeSO : ScriptableObject
         return shieldAmount;
     }
 
-    public float GetManaUpgradeCoast()
+    public float GetManaToUpgrade()
     {
-        return manaUpgradeCoastBase;
+        return manaToUpgrade;
     }
+    
 }

@@ -25,8 +25,6 @@ public class AppodealManager : MonoBehaviour, IRewardedVideoAdListener, IInterst
         Appodeal.Initialize(appKey, adTypes);
         Appodeal.SetRewardedVideoCallbacks(this);
         Appodeal.SetInterstitialCallbacks(this);
-        if (SceneManager.GetActiveScene().buildIndex >= 3)
-            ShowInterstitial();
     }
 
     private void OnInitilizationFinished(object sender, SdkInitializedEventArgs e)

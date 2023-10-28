@@ -27,3 +27,4 @@ MonoBehaviour:
   moveSpeedUpgrade: 0.01
   shieldAmountUpgrade: 0
   manaGainUpgrade: 0
+  manaUpgradeCoastUp: 10

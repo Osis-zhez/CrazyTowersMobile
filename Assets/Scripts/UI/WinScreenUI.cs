@@ -48,9 +48,11 @@ public class WinScreenUI : MonoBehaviour
 
     public void LoadNextLevel()
     {
-        Time.timeScale = 1;
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         int nextSceneIndex = currentSceneIndex + 1;
+        if (nextSceneIndex >= 3)
+            AppodealManager.Instance.ShowInterstitial();
+        Time.timeScale = 1;
         if (nextSceneIndex == SceneManager.sceneCountInBuildSettings)
         {
             //Загрузить сцену окончания всей игры, а пока будет загрузка levelSelection

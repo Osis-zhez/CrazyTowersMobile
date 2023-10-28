@@ -32,7 +32,7 @@ public class ManaButtonController : MonoBehaviour
 
     private void Start() 
     {
-        float manaUpgradeCoast = UnitSpawner.Instance.GetUnitTypeList().unitList[unitIndex].GetManaUpgradeCoast();
+        float manaUpgradeCoast = UnitSpawner.Instance.GetUnitTypeList().unitList[unitIndex].GetManaToUpgrade();
         fadeImage.gameObject.SetActive(false);
         separatorTimer = calldownMaxTime * separatorTimerСoefficient;
         manaText.text = manaUpgradeCoast.ToString();
@@ -41,7 +41,8 @@ public class ManaButtonController : MonoBehaviour
             if (UpIsDone)
             {
                 ClickButtonFadeOut(unitIndex);
-                manaUpgradeCoast += 10;
+                UnitSpawner.Instance.GetUnitTypeList().unitList[unitIndex].ManaButtonUpgrade();
+                manaUpgradeCoast = UnitSpawner.Instance.GetUnitTypeList().unitList[unitIndex].GetManaToUpgrade();
                 manaText.text = manaUpgradeCoast.ToString();
             }
         });
