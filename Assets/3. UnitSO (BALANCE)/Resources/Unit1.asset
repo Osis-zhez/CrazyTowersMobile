@@ -26,5 +26,5 @@ MonoBehaviour:
   healthAmountMaxUpgrade: 0.1
   moveSpeedUpgrade: 0
   shieldAmountUpgrade: 0
-  manaGainUpgrade: 1
+  manaGainUpgrade: 0
   manaUpgradeCoastUp: 10

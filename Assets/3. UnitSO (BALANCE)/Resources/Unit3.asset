@@ -18,13 +18,13 @@ MonoBehaviour:
   manaGainBase: 12
   callDawnSpawn: 0.1
   damageAmountBase: 200
-  healthAmountMaxBase: 300
+  healthAmountMaxBase: 500
   moveSpeedBase: 2.3
   shieldAmountBase: 0.02
-  manaUpgradeCoastBase: 40
-  damageAmountUpgrade: 0.5
+  manaUpgradeCoastBase: 60
+  damageAmountUpgrade: 0
   healthAmountMaxUpgrade: 0.1
-  moveSpeedUpgrade: 0.1
+  moveSpeedUpgrade: 0.05
   shieldAmountUpgrade: 0.02
   manaGainUpgrade: 0
-  manaUpgradeCoastUp: 10
+  manaUpgradeCoastUp: 20

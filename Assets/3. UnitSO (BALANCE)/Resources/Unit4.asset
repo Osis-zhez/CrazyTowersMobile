@@ -18,7 +18,7 @@ MonoBehaviour:
   manaGainBase: 10
   callDawnSpawn: 0.3
   damageAmountBase: 0
-  healthAmountMaxBase: 300
+  healthAmountMaxBase: 500
   moveSpeedBase: 2.3
   shieldAmountBase: 0
   manaUpgradeCoastBase: 40
