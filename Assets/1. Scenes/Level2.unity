@@ -6151,6 +6151,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1978280558347228532, guid: f7ea704921a0fee4da47ed9bb639fd13, type: 3}
+      propertyPath: shootTimerMax
+      value: 0.23
+      objectReference: {fileID: 0}
     - target: {fileID: 4289905783704338047, guid: f7ea704921a0fee4da47ed9bb639fd13, type: 3}
       propertyPath: m_Size.x
       value: 3.0747385

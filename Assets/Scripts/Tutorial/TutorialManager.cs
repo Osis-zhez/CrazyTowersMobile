@@ -63,6 +63,7 @@ public class TutorialManager : MonoBehaviour
             secondTutorialObject.SetActive(true);
 
             energyButton.onClick.AddListener(EndSecondTutorial);
+            Time.timeScale = 0;
         }
     }
 
@@ -72,6 +73,7 @@ public class TutorialManager : MonoBehaviour
         unit1Button.enabled = true;
         secondTutorialObject.SetActive(false);
         manaCheckDelegate = StartThirdTutorial;
+        Time.timeScale = 1;
         GameAnalytics.Instance.LogEvent("Level1_UpgradeEnergy_TutorialEnd");
     }
 
@@ -88,6 +90,7 @@ public class TutorialManager : MonoBehaviour
             manaCheckDelegate = null;
 
             manaButton.onClick.AddListener(EndThirdTutorial);
+            Time.timeScale = 0;
         }
     }
 
@@ -104,5 +107,6 @@ public class TutorialManager : MonoBehaviour
 
         manaButton.onClick.RemoveListener(EndThirdTutorial);
         ManaManager.Instance.OnTutorialManaCheck -= ManaManager_OnTutorialManaCheck;
+        Time.timeScale = 1;
     }
 }

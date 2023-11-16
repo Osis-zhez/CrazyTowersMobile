@@ -2,9 +2,13 @@
   <packages>
     <package>androidx.constraintlayout:constraintlayout:2.1.4</package>
     <package>androidx.core:core:1.7.0</package>
+    <package>com.adcolony:sdk:4.8.0</package>
+    <package>com.adjust.sdk:adjust-android:4.33.5</package>
+    <package>com.android.installreferrer:installreferrer:2.2</package>
     <package>com.applovin:applovin-sdk:11.11.3</package>
     <package>com.appodeal.ads.sdk.core:internal:3.1.3</package>
     <package>com.appodeal.ads.sdk.core:public:3.1.3</package>
+    <package>com.appodeal.ads.sdk.networks:adcolony:3.1.3.0</package>
     <package>com.appodeal.ads.sdk.networks:admob:3.1.3.1</package>
     <package>com.appodeal.ads.sdk.networks:applovin:3.1.3.1</package>
     <package>com.appodeal.ads.sdk.networks:bidmachine:3.1.3.1</package>
@@ -15,6 +19,8 @@
     <package>com.appodeal.ads.sdk.networks:unity_ads:3.1.3.0</package>
     <package>com.appodeal.ads.sdk.networks:vungle:3.1.3.0</package>
     <package>com.appodeal.ads.sdk.networks:yandex:3.1.3.1</package>
+    <package>com.appodeal.ads.sdk.services:adjust:3.1.3.1</package>
+    <package>com.appodeal.ads.sdk.services:appsflyer:3.1.3.1</package>
     <package>com.appodeal.ads.sdk.services:firebase:3.1.3.0</package>
     <package>com.appodeal.ads.sdk.services:sentry_analytics:3.1.3.1</package>
     <package>com.appodeal.ads.sdk.services:stack_analytics:3.1.3.0</package>
@@ -23,6 +29,9 @@
     <package>com.appodeal.ads:consent:3.1.3</package>
     <package>com.appodeal.ads:extensions:3.1.3</package>
     <package>com.appodeal.ads:network:3.1.3</package>
+    <package>com.appsflyer:adrevenue:6.9.1</package>
+    <package>com.appsflyer:af-android-sdk:6.12.3</package>
+    <package>com.explorestack.adjust:sdk-purchase:1.1.2</package>
     <package>com.explorestack:iab:1.5.2</package>
     <package>com.facebook.android:audience-network-sdk:6.16.0</package>
     <package>com.google.android.exoplayer:exoplayer:2.17.1</package>
@@ -43,6 +52,7 @@
     <package>com.vungle:publisher-sdk-android:6.12.1</package>
     <package>com.yandex.android:mobileads:5.10.0</package>
     <package>com.yandex.android:mobmetricalib:5.3.0</package>
+    <package>io.bidmachine:ads.networks.adcolony:2.3.1.11</package>
     <package>io.bidmachine:ads.networks.amazon:2.3.3.12</package>
     <package>io.bidmachine:ads.networks.criteo:2.3.3.11</package>
     <package>io.bidmachine:ads.networks.meta_audience:2.3.3.14</package>

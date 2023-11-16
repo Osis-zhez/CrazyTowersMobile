@@ -4,3 +4,8 @@
 2. Импортируйте EDM в свой проект Unity, добавив загруженный архив через Unity Package Manager (Window → Package Manager → "+" → Add package from tarball).
 
 Нужно закачать файл Firebase, который я отправлял, в папку Assets/Firebase/Plugins/x86_64
+
+
+Для сборки
+- Ключ Reversetd
+- Alias revers td. с пробелом

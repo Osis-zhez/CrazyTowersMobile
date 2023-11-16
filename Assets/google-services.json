@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252507115691",
+    "project_id": "reverse-td",
+    "storage_bucket": "reverse-td.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252507115691:android:e9e93cceb94cff94d4e7ee",
+        "android_client_info": {
+          "package_name": "com.reversetowerdefence.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252507115691-pvrtk0gn10hepi3ctfmscuvh8gtksu0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOM8xfcptuwuS6rA_uYdv0Vv8VmRL0wTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252507115691-pvrtk0gn10hepi3ctfmscuvh8gtksu0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
